@@ -1,6 +1,10 @@
-i am learing git
 
+<html>
+<head>
+<body>
+<h1>ok,go a head learning at the earliest</h1>
+</body>
+</head>
+</html>
 
-git commands i learned git init
-git commit
 
