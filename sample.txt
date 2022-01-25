@@ -1,1 +1,6 @@
 i am learing git
+
+
+git commands i learned git init
+git commit
+
